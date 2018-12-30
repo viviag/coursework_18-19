@@ -1,0 +1,12 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: hubbitus/latex
+    steps:
+      - checkout
+      - run:
+          name: 
+          command: pdflatex Main.tex
+      - store_artifacts:
+          path: Main.pdf
