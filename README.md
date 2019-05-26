@@ -1,12 +1,11 @@
 ### Bezout theorem and Plucker relations
 
-This is my coursework at math department of HSE development page. In Russian.
+This is my first year coursework at math department of HSE development page. In Russian.
 
-It's not intended to contain any scientific news for now.
+It's not intended to contain any scientific news. And is practically not complete.
 
-Links:
- - http://gorod.bogomolov-lab.ru/ps/stud/projgeom/list.html - basic text
+References:
+ - http://gorod.bogomolov-lab.ru/ps/stud/projgeom/list.html
 
- - http://www.math.uchicago.edu/~may/VIGRE/VIGRE2011/REUPapers/Menon.pdf
- - http://www.mcnmo.ru/~yasinsky/teaching/L16.pdf
- - http://mahalex.net/special-courses/_intersection/intersection.pdf - to be applied furtherly.
+ - Algebraic curves book by Walker
+ - Algebraic curves lectures by Lando
